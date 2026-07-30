@@ -1,0 +1,7 @@
+module:org.bitcoinj.secp
+org.bitcoinj.secp
+org.bitcoinj.secp.internal
+module:org.bitcoinj.secp.bouncy
+module:org.bitcoinj.secp.ffm
+org.bitcoinj.secp.ffm
+module:org.bitcoinj.secp.graalvm
